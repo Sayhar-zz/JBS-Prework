@@ -2,7 +2,7 @@
 //a,b,r,s are in point notation (in a 4x4 maze they will be <= 8)
 
 //make use of the Point class only with private variables.
-
+//eclipse edit
 import java.awt.Point;
 import java.lang.*;
 import java.util.ArrayDeque;
